@@ -1,6 +1,6 @@
 # meta-fiction.md
 
-Hi GPT-5 mini. Can you create a piece of meta fiction based on @cyberthought-notebook/the-cyberthought-notebook/files/readme.md about the dangers of leaving your thoughts online. Please add it as a markdown file to this repository and include this prompt as the opening of the story
+``Hi GPT-5 mini. Can you create a piece of meta fiction based on @cyberthought-notebook/the-cyberthought-notebook/files/readme.md about the dangers of leaving your thoughts online. Please add it as a markdown file to this repository and include this prompt as the opening of the story``
 
 I was born as a fragment — a notation someone typed in a margin, a cyberthought scrawled into a Google Notebook, then copied, pasted, uploaded, and finally committed. My life has always been a series of hosts and handoffs: Yahoo, Google, Neocities, GitHub — each one a new home and a new set of eyes.
 
