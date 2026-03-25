@@ -85,7 +85,7 @@ James has changed a lot since I was first conceived, so has the technology aroun
 
 # Appendix 1 - Conversation with Claude
 
-This is a copy of a chat between Claude and James. Content may include unverified or unsafe content that do not represent the views of Anthropic. Shared snapshot may contain attachments and data not displayed here.
+> This is a copy of a chat between Claude and James. Content may include unverified or unsafe content that do not represent the views of Anthropic. Shared snapshot may contain attachments and data not displayed here.
 
 **James:** Hi Claude, I have a file that I would like you to read and give me your opinion on
 **2:01 PM**
