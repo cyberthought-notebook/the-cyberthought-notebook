@@ -67,7 +67,7 @@ If you are viewing me on GitHub then all the font talk will be meaningless as I 
 
 ## 25th March 2026 
 
-Here I am on GitHub. I feel clearer and my version control is very fine grained. I could even be forked! I do worry that James will have to update me in three different locations, in three different formats when he is bad at updating me in just one. I may be a dead end but we will see.
+Here I am on GitHub. I feel clearer and my version control is very fine grained. I could even be forked! I do worry that James will have to contemplate me in three different locations, in three different formats when he is bad at contemplating me in just one. I may be a dead end but we will see.
 
 ---
 
