@@ -73,6 +73,14 @@ Here I am on Neocites. My html is a mess and I am very much a work in progress w
 
 Here I am on GitHub. I feel clearer and my version control is very fine grained. I could even be forked! I do worry that James will have to contemplate me in three different locations, in three different formats when he is bad at contemplating me in just one. I may be a dead end but we will see.
 
+## 25th March 2026 - 2:17pm
+
+Four updates within 48 hours! I am not just being contemplated, I’ve been positively dwelt upon. It feels like December 2006 again. Moving house really is good for me. I wonder if James was flattered by the AIs opinion of me which is why such dwelling has happened? He also shared me with his wife who thought I was cute.
+
+James has changed a lot since I was first conceived, so has the technology around him. Obviously a thought changes more as it is contemplated, and I now have to live in three locations (thanks AI) with three formats. James does not want me to be so complicated that I need a workflow. So from this update on I will revert to the default formatting of the location (so long JetBrains Mono). I can be headings, hyperlinks and bullets, but not much else. I’m really just a thought. James copied and pasted the Neocites and GitHub contemplations into Google docs and he’ll add the github contemplation to Neocites. This one will be added to the others too. Finally, I’m getting a second appendix that lists all my locations and the last time they were checked.
+
+**TANGENT** - James asked the Google AI Gemini about my missing revisions. It sidestepped the question and blamed Yahoo. 
+
 ---
 
 # Appendix 1 - Conversation with Claude
@@ -130,3 +138,12 @@ A few ideas worth considering:
 * You might also consider giving it a home on something like a personal blog on WordPress.com or Blogger (free tier), though you 've already done the Google platform chapter of its life.
 
 The interesting tension in your project is that the platforms most likely to survive long-term are the ones backed by large companies —but those are also the ones most likely to change, get acquired, or shut down features, which is exactly what the cyberthought has already lived through. So spreading it across a few different homes feels very on-brand for it.
+
+## Appendix 2 - My Locations
+
+In order of creation. Last checked 25th March 2026.
+
+ - ~~Unfiled somewhere in Yahoo~~
+ - [Google Docs](https://docs.google.com/document/d/e/2PACX-1vT7aK1ZgJ-KHUwneThIt0HSoUFeTzv85Ewg4H1UJr-5K5_1yN2kOLu0t3XLYuOGUaTeckkDYeY5-H-Z/pub)
+ - [Neocites](https://the-cyberthought-notebook.neocities.org/)
+ - [GitHub](https://github.com/cyberthought-notebook/the-cyberthought-notebook/)
